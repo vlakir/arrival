@@ -1,0 +1,12 @@
+.idea/
+venv/
+env/
+*.log
+*.log.*
+__pycache__/
+~*.*
+~*
+.~*
+db.sqlite3
+*.kate-swp
+.coverage
